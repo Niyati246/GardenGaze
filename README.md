@@ -1,9 +1,9 @@
 # GardenGaze
 
-##Our ✨Inspiration✨
+## Our ✨Inspiration✨
 As avid plant lovers, we come across plants or flowers that we may intend to add to our own garden, however, sometimes we don't know how to take care of them, or even what they're called! That's why we invented "Garden Gaze," a web based application made on Streamlit, that allows a user to upload an image, and can instantly learn a bit about the plant and how to effectively take care of it! Our project focuses on plant health and allows plant owners to take care of their plants! 
 
-##What does Garden Gaze do?
+## What does Garden Gaze do?
 When walking across a flower, you can simply take a picture of it and upload it onto Garden Gaze, and within seconds, you will know exactly what plant it is, its classification, and a weblink directing you to plant care instructions. Along with this, you will be able to save all of your findings in a gallery, where you can admire all the beautiful plants and flowers :)
 
 ## How we built it

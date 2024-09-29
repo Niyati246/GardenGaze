@@ -15,7 +15,7 @@ page_bg_img = '''
 '''
 st.markdown(page_bg_img, unsafe_allow_html=True)
 
-API_KEY_PLANT_ID = 'NhhoRDtsuxcgGdbpmWZ6E3K5TafdZxTHrLE7fSvFUdFVkLqgnX'
+API_KEY_PLANT_ID = 'api-key'
 
 def fetch_care_instructions(plant_name):
     query = f"{plant_name} plant care instructions"
